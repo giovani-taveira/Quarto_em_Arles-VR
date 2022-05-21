@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{cec317f4-0705-9abb-58ad-916443647fec}</ProjectGuid>
+    <ProjectGuid>{f4e07ed7-5045-ccf3-c7f3-b9c7605131a8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -242,10 +242,10 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Assets/GoogleVR/Prefabs/Plugins/Google.ProtocolBuffers.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Assets/GoogleVR/Prefabs/Plugins/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -602,66 +602,66 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.DeviceSimulator.Tests.Common">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.DeviceSimulator.Tests.Common.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.DeviceSimulator.Tests.Common.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.DeviceSimulator.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.DeviceSimulator.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.DeviceSimulator.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/giova/OneDrive/Área de Trabalho/TrabalhoRealidadeVirtual-master/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/MeusArquivos/Aqui/TrabalhoRealidadeVirtual/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{7b153bbd-0720-0ab8-c601-8cb8000fcfb6}</Project>
+      <Project>{20485b5b-e348-23c1-abdc-e61a3c95e162}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
